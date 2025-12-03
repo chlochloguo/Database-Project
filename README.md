@@ -135,3 +135,5 @@ This project demonstrates practical, production-ready **data engineering** and *
 * Preparing **analytics-ready datasets**
 
 It provides a complete example of building a **modern, scalable data warehouse** from end to end.
+
+https://public.tableau.com/views/databaseproject/Dashboard1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
